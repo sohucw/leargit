@@ -225,5 +225,5 @@ gulp.task('watchcss', function () {
             .pipe(gulp.dest(paths.distDir))
     })
 })
-
+//  test
 gulp.task('default', ['watchcss']);
